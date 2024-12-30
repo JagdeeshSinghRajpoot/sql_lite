@@ -1,11 +1,6 @@
 # sql_lite
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-<table border="1">
+I made it an Android project to learn SQLite.I am regularly updating this project. I may use it as my notebook
+<table>
         <thead>
             <tr>
                 <th>Home Page</th>
